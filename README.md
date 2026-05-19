@@ -1,7 +1,6 @@
 # Readme Heatmap Canvas
 
-> **Work in progress** — the public link will be added here later.
-
+**Live demo:** https://readme-heatmap.vercel.app/
 
 ## What it does
 
