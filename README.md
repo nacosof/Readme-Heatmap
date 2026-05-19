@@ -14,7 +14,7 @@ You can:
 - change node color and background
 - add a caption on the image
 - download the **commit constellation** as a PNG
-- get a **dev card** — avatar, username, public repos, all-time commits, rank, and a few fun stats (pixel style, same vibe as the site)
+- get a **dev card** as a PNG
 - customize dev card background and text colors
 - download the **dev card** as a PNG
 - click on a dot (commit) to open it on GitHub
